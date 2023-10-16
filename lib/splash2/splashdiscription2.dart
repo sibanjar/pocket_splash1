@@ -1,11 +1,9 @@
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class SplashDiscription extends StatelessWidget {
+class SplashDiscription2 extends StatelessWidget {
   final int number;
   final String title;
-  const SplashDiscription({super.key, required this.number, required this.title});
+  const SplashDiscription2({super.key, required this.number, required this.title});
 
   @override
   Widget build(BuildContext context) {
